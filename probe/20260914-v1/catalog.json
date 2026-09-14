@@ -1,0 +1,68 @@
+{
+  "schema": "pdfreader-library-probe/1",
+  "release": "20260914-v1",
+  "status": "connection-test-only",
+  "format": "RLB1",
+  "font": {
+    "localOnly": true,
+    "familySha256": "27c02ba5a5c4eff6a9161d72577831a39c9b0351130f1f063710b16649418394",
+    "mappingSha256": "f4ef1382370373620389a01f5d7692c569088c438d9efbaa5449d6e93023eb84",
+    "atlasSha256": "f385ac55ff83fcec9cc28f5dfcc11d52ca8b56732fed555ca181aa8d47048370",
+    "glyphCount": 2273
+  },
+  "books": [
+    {
+      "id": "pdfreader-probe:morning",
+      "title": "朝の読書",
+      "language": "ja",
+      "kind": "original-test-text",
+      "url": "https://kqhkdzyrvq-crypto.github.io/pdfreader-library/probe/20260914-v1/books/morning.png",
+      "path": "probe/20260914-v1/books/morning.png",
+      "sha256": "34bebbbf31b06ba38c67ba99d548bc64b7326f8c04bd3324698b15d74d354bc4",
+      "bytes": 2018,
+      "width": 32,
+      "height": 30,
+      "pages": 2,
+      "pageInstances": [
+        257,
+        56
+      ],
+      "sourceAnchors": [
+        0,
+        263
+      ],
+      "maxInstances": 257,
+      "textSource": "https://kqhkdzyrvq-crypto.github.io/pdfreader-library/probe/20260914-v1/texts/morning.txt"
+    },
+    {
+      "id": "pdfreader-probe:evening",
+      "title": "夜の読書",
+      "language": "ja",
+      "kind": "original-test-text",
+      "url": "https://kqhkdzyrvq-crypto.github.io/pdfreader-library/probe/20260914-v1/books/evening.png",
+      "path": "probe/20260914-v1/books/evening.png",
+      "sha256": "232f7ef8e12982e349170418ea6eab2bee2980b9c04bbb2a145d2968f36f266a",
+      "bytes": 1865,
+      "width": 32,
+      "height": 30,
+      "pages": 2,
+      "pageInstances": [
+        255,
+        57
+      ],
+      "sourceAnchors": [
+        0,
+        261
+      ],
+      "maxInstances": 255,
+      "textSource": "https://kqhkdzyrvq-crypto.github.io/pdfreader-library/probe/20260914-v1/texts/evening.txt"
+    }
+  ],
+  "transportCheck": {
+    "url": "https://kqhkdzyrvq-crypto.github.io/pdfreader-library/probe/20260914-v1/rgba-check.png",
+    "width": 256,
+    "height": 16,
+    "fileSha256": "88b300397238adcfb42aa5bf28fa23e7b42841bd805f0a8d29969a010e1c375c",
+    "decodedRgbaSha256": "bdaa994adc783abfc1334397664870b76110f0b880053e62311f45e58712a666"
+  }
+}
