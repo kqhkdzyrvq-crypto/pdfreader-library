@@ -1,0 +1,39 @@
+{
+  "schema": "pdfreader.source/1-draft",
+  "id": "evening-collection",
+  "name": "Evening Collection",
+  "revision": "draft-001",
+  "font": {
+    "profile": "rlb1-sdf64",
+    "familySha256": "27c02ba5a5c4eff6a9161d72577831a39c9b0351130f1f063710b16649418394",
+    "glyphCount": 2273,
+    "cellSize": 64,
+    "columns": 64,
+    "mappingPath": "fonts/f4ef1382370373620389a01f5d7692c569088c438d9efbaa5449d6e93023eb84.json",
+    "mappingSha256": "f4ef1382370373620389a01f5d7692c569088c438d9efbaa5449d6e93023eb84",
+    "atlasPath": "fonts/f385ac55ff83fcec9cc28f5dfcc11d52ca8b56732fed555ca181aa8d47048370.png",
+    "atlasSha256": "f385ac55ff83fcec9cc28f5dfcc11d52ca8b56732fed555ca181aa8d47048370",
+    "licensePath": "fonts/5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6.txt",
+    "licenseSha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6"
+  },
+  "books": [
+    {
+      "id": "evening",
+      "title": "夜の読書",
+      "language": "ja",
+      "rights": "Original diagnostic text created for PDFReader. Development fixture.",
+      "origin": "PDFReader connection test, September 2026",
+      "path": "books/232f7ef8e12982e349170418ea6eab2bee2980b9c04bbb2a145d2968f36f266a.png",
+      "sha256": "232f7ef8e12982e349170418ea6eab2bee2980b9c04bbb2a145d2968f36f266a",
+      "width": 32,
+      "height": 30,
+      "pages": 2,
+      "pageInstances": [
+        255,
+        57
+      ],
+      "totalInstances": 312,
+      "rgbaCrc32": "841aa1c1"
+    }
+  ]
+}
