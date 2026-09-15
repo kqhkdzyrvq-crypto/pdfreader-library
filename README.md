@@ -2,11 +2,14 @@
 
 This repository serves development library data through GitHub Pages. It is not a released literature catalogue.
 
-## Source format preview
+## Current vector source
+- [Ruoyo Demo Library](sources/ruoyo-vector-demo/): the complete 6-page original Demo PDF, converted to online text, vector fills, curves and image data. Uses the current 2-draft vector reader.
+
+## Earlier SDF prototype sources (legacy)
 - [Ruoyo Library](sources/ruoyo-test-library/): two short original Japanese test texts.
 - [Evening Collection](sources/evening-collection/): a second independent source used to test library selection.
 
-Each source is a self-contained PDFReader source/1-draft directory. Its source.json points to content-addressed book data, a shared SDF font atlas, the font mapping and its OFL licence. The atlas is derived from Noto and its licence is included alongside it.
+Each legacy source below is a self-contained PDFReader source/1-draft directory. Its source.json points to content-addressed book data, a shared SDF font atlas, the font mapping and its OFL licence. The atlas is derived from Noto and its licence is included alongside it.
 
 To configure a world, copy the source.json link from the chosen collection into PDFReader's Online libraries window in Unity. This is a development preview.
 
