@@ -1,0 +1,39 @@
+{
+  "width": 128,
+  "height": 128,
+  "frames": 8,
+  "fps": 4,
+  "reference_sha256": "2c31e7dd0cb0c5ee6169b4615699389aa37a9c440dece8f873852ad215593b73",
+  "cases": [
+    {
+      "file": "ffv1-rgb.mkv",
+      "size": 396766,
+      "sha256": "01bf9bd87c3035a55ea3023526642cf2b406c5ad00fece838e81d96700a74480",
+      "byte_exact": true
+    },
+    {
+      "file": "huffyuv-rgb.avi",
+      "size": 564532,
+      "sha256": "c0aa2af1da1255f27d5398621fe26cf9fb35ccebc62d1763d97b3be57581730c",
+      "byte_exact": true
+    },
+    {
+      "file": "raw-rgb.avi",
+      "size": 399094,
+      "sha256": "941d50817050e8c436f32919c261bd08453b5504952aed5a561cdeed0a62a18f",
+      "byte_exact": true
+    },
+    {
+      "file": "png-rgb.mov",
+      "size": 348613,
+      "sha256": "5405eff39861fda0d06635708138612eebbb386d3a04a0ad05473882b37bfa0a",
+      "byte_exact": true
+    },
+    {
+      "file": "vp9-rgb.webm",
+      "size": 371093,
+      "sha256": "6e419f51934ab71cfe43c54145632743784a588a8cf89e9a2680bec4cbb9f1ab",
+      "byte_exact": true
+    }
+  ]
+}
