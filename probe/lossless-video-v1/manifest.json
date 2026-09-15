@@ -34,6 +34,12 @@
       "size": 371093,
       "sha256": "6e419f51934ab71cfe43c54145632743784a588a8cf89e9a2680bec4cbb9f1ab",
       "byte_exact": true
+    },
+    {
+      "file": "raw-rgb32.avi",
+      "size": 530166,
+      "sha256": "636d48d6dbd63fba7d8fd204953432bc8fb626e3b4296f58b5d669aec71b5406",
+      "byte_exact": true
     }
   ]
 }
