@@ -1,0 +1,3 @@
+PRIX2	2	Ruoyo PDFReader Library
+4d555684c4cf4f56a75296788bc2301c	Tolkien-J.-Complete-The-lord-of-the-rings		und	books/801e846c39797d10aa218516be2b9574e60fa2edd2b2383e1a87ef47cb0b53e5.json
+f0d8befb2be149d7a064c2614837b54a	PDFReader-Original-Demo		und	books/b1a5ff5ee1b05a328eaa76d10313018103a8e2043aebf6d8d95e8e38192579db.json
