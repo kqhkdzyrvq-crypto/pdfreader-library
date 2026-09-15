@@ -3,7 +3,7 @@
 This repository serves development library data through GitHub Pages. It is not a released literature catalogue.
 
 ## Current vector source
-- [Ruoyo Demo Library](sources/ruoyo-vector-demo/): the complete 6-page original Demo PDF, converted to online text, vector fills, curves and image data. Uses the current 2-draft vector reader.
+- [Ruoyo PDFReader Library](sources/ruoyo-vector-demo/): one source containing the complete 6-page original Demo and the 1,210-page Lord of the Rings test document. Uses the current 2-draft vector reader with capacity-packed multi-page PNG data. The source URL remains unchanged.
 
 ## Earlier SDF prototype sources (legacy)
 - [Ruoyo Library](sources/ruoyo-test-library/): two short original Japanese test texts.
