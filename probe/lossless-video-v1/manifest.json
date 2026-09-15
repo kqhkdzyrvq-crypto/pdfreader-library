@@ -40,6 +40,15 @@
       "size": 530166,
       "sha256": "636d48d6dbd63fba7d8fd204953432bc8fb626e3b4296f58b5d669aec71b5406",
       "byte_exact": true
+    },
+    {
+      "file": "raw-rgb32-nibbles.avi",
+      "size": 530166,
+      "sha256": "b9245779ad8a2dd38810fbcf106a326019f151dbc79b05411b318ecc965dd41b",
+      "byte_exact": true,
+      "encoding": "Each RGB channel holds one nibble as 64+12*n; RGBA alpha unused",
+      "payload_bytes": 196608,
+      "payload_sha256": "cbcd399e4e6d24b051cb30599d351e4c6cd48c21763dcade995f16ab7e255b66"
     }
   ]
 }
