@@ -1,6 +1,9 @@
 # pdfreader-library
 
-This repository serves development library data through GitHub Pages. It is not a released literature catalogue.
+This repository serves development library data through GitHub Pages. The collections are development previews.
+
+## Aozora Bunko vector collection
+- [青空文庫](sources/aozora/): 17,344 complete converted works, 811,195 pages; requires PRBK3 / PRV3 support. [Source URL](sources/aozora/source.json) · [Sources and font licences](sources/aozora/NOTICE.md). This independent conversion retains per-work source and contributor information.
 
 ## Current vector source
 - [Ruoyo PDFReader Library](sources/ruoyo-vector-demo/): one source containing the complete 6-page original Demo and the 1,210-page Lord of the Rings test document. Uses the current 2-draft vector reader with capacity-packed multi-page PNG data. The source URL remains unchanged.
